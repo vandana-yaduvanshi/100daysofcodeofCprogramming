@@ -25,19 +25,6 @@ To strengthen programming fundamentals and logical thinking through consistent p
 - Arrays 
 - Strings
 - Introduction to pointers
-- Pattern programs
-- Basic file handling
-- Logical and mathematical problem solving
-
-## Topics To Be Covered (Next 58 Days)
-
-- Advanced pointers
-- Dynamic memory allocation
-- Structures and unions
-- File handling (advanced)
-- Linked lists
-- Data structure basics in C
-- Mini-projects in C
 
 ## How to Run Programs
 
