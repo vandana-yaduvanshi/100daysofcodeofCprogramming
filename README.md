@@ -41,7 +41,7 @@ To strengthen programming fundamentals and logical thinking through consistent p
 
 ## How to Run Programs
 
-### Using GCC (Linux / MacOS)
+### Using GCC
 ```bash
 gcc filename.c -o output
 ./output
